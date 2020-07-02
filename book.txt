@@ -1,6 +1,0 @@
-npm 
-react
-vue
-node
-django
-
